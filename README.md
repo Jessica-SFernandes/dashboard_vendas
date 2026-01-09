@@ -2,6 +2,8 @@
 
 Este repositório contém a solução para o desafio de Data Analytics com foco na criação de um Dashboard interativo no Excel. O objetivo foi transformar uma base de dados bruta de vendas em visualizações estratégicas para tomada de decisão.
 
+![Screenshot do Dashboard](https://github.com/Jessica-SFernandes/dashboard_vendas/blob/main/dashboard.png)
+
 ## 📋 Sobre o Projeto
 
 O projeto consiste na análise de dados de vendas de assinaturas (Game Pass), permitindo a visualização rápida de KPIs (Indicadores-Chave de Desempenho). O painel foi desenvolvido para responder a perguntas de negócio sobre faturamento, tipos de planos mais vendidos e desempenho por período.
