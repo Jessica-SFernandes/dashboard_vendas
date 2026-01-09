@@ -31,6 +31,10 @@ O dashboard permite identificar rapidamente:
 
 ---
 
+**Baixe o arquivo do projeto:** [Clique aqui para baixar (dashboard_xboxdio.xlsx)](https://github.com/Jessica-SFernandes/dashboard_vendas/blob/main/dashboard_xboxdio.xlsx)
+
+---
+
 ## 👩‍💻 Autora
 
 **Jéssica Fernandes**
